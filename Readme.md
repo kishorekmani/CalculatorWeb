@@ -18,13 +18,14 @@ To use the calculator, simply enter numbers and operators using the on-screen bu
 <br>
 <h2>How to run</h2>
 
-To run the calculator, simply open the index.html file in a web browser.
+To run the calculator, simply open the [**index.html**](/index.html/) file in a web browser.
 
 <br>
 <h2>Credits</h2>
 
-The calculator was created by **Kishore K** using HTML, CSS, and JavaScript.
+The calculator was created by [**Kishore K**](/https://github.com/kishorekmani/) using HTML, CSS, and JavaScript.
 
 <br>
 <h2>License</h2>
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [**LICENSE**](/License/) file for details.
